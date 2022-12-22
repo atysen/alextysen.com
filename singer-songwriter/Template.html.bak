@@ -1,0 +1,111 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>Song</title>
+    <basefont face="Segoe UI" size="2">
+    <style>
+    body, td {
+      font-family: Segoe UI;
+      font-size: 10pt;
+    }
+  </style>
+  </head>
+  <body>
+    <br>
+    <br>
+    <!-- LYRICS -->
+    <div><a name="1978" style="color: rgb(0, 0, 0); font-family: &quot;Segoe UI&quot;; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span>
+          <div style="text-align: center;"><span style="font-size: 24px; font-weight: bold;">This
+              is It</span></div>
+          <div style="text-align: center;"><br>
+          </div>
+          <div style="text-align: center;"><em>You are letting flies get inside</em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;">You
+                let them drag you to their side</span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;">Make
+                you think that you are alright</span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;">And
+                that... that will make you no good</span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;"><br>
+              </span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;"></span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;">New
+                lords are calling</span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;">Old
+                lies are growing</span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;"><br>
+              </span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;"></span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;">Bricks
+                are breaking windows where their ladders go straight</span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;">What
+                you used to own is some outsider's instead</span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;">No
+                one hears no one and there is nothing to say</span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;">Use
+                your bright side just to find a moment to pray</span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;"><br>
+              </span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;"></span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;">You'll
+                find your own way in this</span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;">This
+                is it</span></em></div>
+          <div style="text-align: center;"><em><span style="font-variant-caps: normal; font-variant-ligatures: normal;">And
+                you'll do it your way</span></em></div>
+          <div style="text-align: center;"><em><br>
+            </em></div>
+          <div style="text-align: center;"><em>let's say that everything's fine</em></div>
+          <div style="text-align: center;"><em>let's sell your souls but not
+              mine</em></div>
+          <div style="text-align: center;"><em>and then let's look back</em></div>
+          <div style="text-align: center;"><em><br>
+            </em></div>
+          <div style="text-align: center;"><em>New lords are calling</em></div>
+          <div style="text-align: center;"><em>Old lies are growing</em></div>
+          <div style="text-align: center;"><em><br>
+            </em></div>
+          <div style="text-align: center;"><em>Bricks are breaking windows where
+              their ladders go straight</em></div>
+          <div style="text-align: center;"><em>What you used to own is some
+              outsider's instead</em></div>
+          <div style="text-align: center;"><em>No one hears no one and there is
+              nothing to say</em></div>
+          <div style="text-align: center;"><em>Use your bright side just to find
+              a moment to pray</em></div>
+          <div style="text-align: center;"><em><br>
+            </em></div>
+          <div style="text-align: center;"><em>You'll find your own way in this</em></div>
+          <div style="text-align: center;"><em>This is it</em></div>
+          <div style="text-align: center;"><em>And you'll do it your
+              way&nbsp;&nbsp;&nbsp; (x2)</em></div>
+        </span></a></div>
+    <!-- FOOTER -->
+    <br>
+    <br>
+    <br>
+    <div style="text-align: center;">- Listen -</div>
+    <br>
+    <div style="text-align: center;">
+      <audio autoplay="autoplay" controls="controls" loop="loop" preload="metadata"
+        src="tracks/this%20is%20it.mp3"></audio>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div style="text-align: center;"><span>-Download- </span></div>
+    <br>
+    <div style="text-align: center;"><span><a href="tracks/this%20is%20it.mp3"><img
+            alt="soundwave" src="soundwave-icon.png" style="width: 95px; height: 73px;"
+            title="soundwave"></a></span></div>
+    <br>
+    <br>
+    <br>
+    <div style="text-align: center;"><span><span style="font-style: italic;">-
+          Music and Lyrics by Alex Tysen -</span></span></div>
+    <br>
+    <br>
+    <br>
+    <!-- ENDFOOTER -->
+  </body>
+</html>
