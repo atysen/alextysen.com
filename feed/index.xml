@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Alex Tysen Portfolio</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://atysen.github.io/alextysen.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://atysen.github.io/alextysen.com</link>
 	<description>Hello! This is Alex. This is an online portfolio.</description>
 	<lastBuildDate>Wed, 21 Dec 2022 03:48:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>A little piece of sea (html)</title>
-		<link>/2022/12/21/a-little-piece-of-sea-html/</link>
-					<comments>/2022/12/21/a-little-piece-of-sea-html/#respond</comments>
+		<link>https://atysen.github.io/alextysen.com/2022/12/21/a-little-piece-of-sea-html/</link>
+					<comments>https://atysen.github.io/alextysen.com/2022/12/21/a-little-piece-of-sea-html/#respond</comments>
 		
 		<dc:creator><![CDATA[alextysen]]></dc:creator>
 		<pubDate>Wed, 21 Dec 2022 03:31:45 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=65</guid>
+		<guid isPermaLink="false">https://atysen.github.io/alextysen.com/?p=65</guid>
 
-					<description><![CDATA[Siguiéndote A Little Piece of Sea You said This I wouldn’t say But it’s bright like the sunshine In a different way And I Looking at your eyes I just find myself struggling Nothing but trying Not to loose my mind ‘Cause look what I could find Look what I could find My little piece<a class="more-link" href="/2022/12/21/a-little-piece-of-sea-html/">Continue reading <span class="screen-reader-text">"A little piece of sea (html)"</span></a>]]></description>
+					<description><![CDATA[Siguiéndote A Little Piece of Sea You said This I wouldn’t say But it’s bright like the sunshine In a different way And I Looking at your eyes I just find myself struggling Nothing but trying Not to loose my mind ‘Cause look what I could find Look what I could find My little piece<a class="more-link" href="https://atysen.github.io/alextysen.com/2022/12/21/a-little-piece-of-sea-html/">Continue reading <span class="screen-reader-text">"A little piece of sea (html)"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><meta http-equiv="content-type" content="text/html; charset=UTF-8" style="font-size: 24px"><br />
 <title>Siguiéndote</title></p>
 <div style="text-align: center; -en-clipboard: true;">
@@ -95,7 +95,7 @@
 <div></div>
 <div style="text-align: center;">
 <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
-<audio class="wp-audio-shortcode" id="audio-65-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2022/12/A-Little-Piece-of-Sea.mp3?_=1" /><a href="/wp-content/uploads/2022/12/A-Little-Piece-of-Sea.mp3">/wp-content/uploads/2022/12/A-Little-Piece-of-Sea.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-65-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://atysen.github.io/alextysen.com/wp-content/uploads/2022/12/A-Little-Piece-of-Sea.mp3?_=1" /><a href="https://atysen.github.io/alextysen.com/wp-content/uploads/2022/12/A-Little-Piece-of-Sea.mp3">https://atysen.github.io/alextysen.com/wp-content/uploads/2022/12/A-Little-Piece-of-Sea.mp3</a></audio>
 </div>
 <div style="text-align: center;">-Download-</div>
 <div style="text-align: center;"></div>
@@ -107,23 +107,23 @@
 <p><!-- ENDFOOTER --></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/12/21/a-little-piece-of-sea-html/feed/</wfw:commentRss>
+					<wfw:commentRss>https://atysen.github.io/alextysen.com/2022/12/21/a-little-piece-of-sea-html/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="/wp-content/uploads/2022/12/A-Little-Piece-of-Sea.mp3" length="6733543" type="audio/mpeg" />
+		<enclosure url="https://atysen.github.io/alextysen.com/wp-content/uploads/2022/12/A-Little-Piece-of-Sea.mp3" length="6733543" type="audio/mpeg" />
 
 			</item>
 		<item>
 		<title>A Little Piece of Sea</title>
-		<link>/2022/12/21/a-little-piece-of-sea/</link>
-					<comments>/2022/12/21/a-little-piece-of-sea/#respond</comments>
+		<link>https://atysen.github.io/alextysen.com/2022/12/21/a-little-piece-of-sea/</link>
+					<comments>https://atysen.github.io/alextysen.com/2022/12/21/a-little-piece-of-sea/#respond</comments>
 		
 		<dc:creator><![CDATA[alextysen]]></dc:creator>
 		<pubDate>Wed, 21 Dec 2022 03:20:48 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=56</guid>
+		<guid isPermaLink="false">https://atysen.github.io/alextysen.com/?p=56</guid>
 
-					<description><![CDATA[A Little Piece of Sea You said This I wouldn’t say But it’s bright like the sunshine In a different way And I Looking at your eyes I just find myself struggling Nothing but trying Not to loose my mind ‘Cause look what I could find Look what I could find My little piece of<a class="more-link" href="/2022/12/21/a-little-piece-of-sea/">Continue reading <span class="screen-reader-text">"A Little Piece of Sea"</span></a>]]></description>
+					<description><![CDATA[A Little Piece of Sea You said This I wouldn’t say But it’s bright like the sunshine In a different way And I Looking at your eyes I just find myself struggling Nothing but trying Not to loose my mind ‘Cause look what I could find Look what I could find My little piece of<a class="more-link" href="https://atysen.github.io/alextysen.com/2022/12/21/a-little-piece-of-sea/">Continue reading <span class="screen-reader-text">"A Little Piece of Sea"</span></a>]]></description>
 										<content:encoded><![CDATA[
 <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
 <p class="has-text-align-center"><strong>A Little Piece of Sea</strong></p>
@@ -286,47 +286,47 @@
 <p><em>&#8211; Music and Lyrics by Alex Tysen &#8211;</em></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/12/21/a-little-piece-of-sea/feed/</wfw:commentRss>
+					<wfw:commentRss>https://atysen.github.io/alextysen.com/2022/12/21/a-little-piece-of-sea/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Song 1</title>
-		<link>/2022/12/20/song-1/</link>
-					<comments>/2022/12/20/song-1/#respond</comments>
+		<link>https://atysen.github.io/alextysen.com/2022/12/20/song-1/</link>
+					<comments>https://atysen.github.io/alextysen.com/2022/12/20/song-1/#respond</comments>
 		
 		<dc:creator><![CDATA[alextysen]]></dc:creator>
 		<pubDate>Tue, 20 Dec 2022 21:07:17 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=22</guid>
+		<guid isPermaLink="false">https://atysen.github.io/alextysen.com/?p=22</guid>
 
 					<description><![CDATA[Here&#8217;s all the content for the new song]]></description>
 										<content:encoded><![CDATA[
 <p>Here&#8217;s all the content for the new song</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/12/20/song-1/feed/</wfw:commentRss>
+					<wfw:commentRss>https://atysen.github.io/alextysen.com/2022/12/20/song-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/2022/12/12/hello-world/</link>
-					<comments>/2022/12/12/hello-world/#comments</comments>
+		<link>https://atysen.github.io/alextysen.com/2022/12/12/hello-world/</link>
+					<comments>https://atysen.github.io/alextysen.com/2022/12/12/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[alextysen]]></dc:creator>
 		<pubDate>Mon, 12 Dec 2022 16:32:36 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://atysen.github.io/alextysen.com/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/12/12/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://atysen.github.io/alextysen.com/2022/12/12/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
