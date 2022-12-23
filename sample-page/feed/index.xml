@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Start	</title>
-	<atom:link href="http://atysen.github.io/alextysen.com/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>http://atysen.github.io/alextysen.com</link>
+	<atom:link href="https://atysen.github.io/alextysen.com/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://atysen.github.io/alextysen.com</link>
 	<description>Hello! This is Alex. This is an online portfolio.</description>
 	<lastBuildDate>Fri, 23 Dec 2022 16:52:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
