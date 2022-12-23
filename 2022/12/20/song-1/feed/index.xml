@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Song 1	</title>
-	<atom:link href="https://atysen.github.io/alextysen.com/2022/12/20/song-1/feed/" rel="self" type="application/rss+xml" />
-	<link>https://atysen.github.io/alextysen.com/2022/12/20/song-1/</link>
+	<atom:link href="http://atysen.github.io/alextysen.com/2022/12/20/song-1/feed/" rel="self" type="application/rss+xml" />
+	<link>http://atysen.github.io/alextysen.com/2022/12/20/song-1/</link>
 	<description>Hello! This is Alex. This is an online portfolio.</description>
 	<lastBuildDate>Tue, 20 Dec 2022 21:07:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
