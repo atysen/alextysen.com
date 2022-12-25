@@ -12,7 +12,7 @@
 	<atom:link href="https://atysen.github.io/alextysen.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://atysen.github.io/alextysen.com</link>
 	<description>Hello! This is Alex. This is an online portfolio.</description>
-	<lastBuildDate>Fri, 23 Dec 2022 22:13:57 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Dec 2022 05:45:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,72 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>I Will Dance</title>
+		<link>https://atysen.github.io/alextysen.com/2022/12/25/i-will-dance/</link>
+					<comments>https://atysen.github.io/alextysen.com/2022/12/25/i-will-dance/#respond</comments>
+		
+		<dc:creator><![CDATA[alextysen]]></dc:creator>
+		<pubDate>Sun, 25 Dec 2022 04:44:26 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://atysen.github.io/alextysen.com/?p=253</guid>
+
+					<description><![CDATA[Changing colors for you Feeling strange in this room I am now glowing So much keeps me alive Flowers blossom inside A piece of sound And after all the rain is gone I will keep on dancing For dancing is part of my life Dancing is part of my life You won't take that from<a class="more-link" href="https://atysen.github.io/alextysen.com/2022/12/25/i-will-dance/">Continue reading <span class="screen-reader-text">"I Will Dance"</span></a>]]></description>
+										<content:encoded><![CDATA[<h2 style="font-style:normal;font-weight:700;" class="has-text-align-center wp-block-post-title">I Will Dance</h2>
+
+
+<pre class="wp-block-verse has-text-align-center has-small-font-size"><em>Changing colors for you
+Feeling strange in this room
+I am now glowing
+
+So much keeps me alive
+Flowers blossom inside
+A piece of sound
+
+And after all the rain is gone
+I will keep on dancing
+For dancing is part of my life
+Dancing is part of my life
+You won't take that from me
+
+This is how the man spoke
+Words that feel like a stroke
+And I will dance
+
+And after all the rain is gone
+I will keep on dancing
+For dancing is part of my life
+Dancing is part of my life
+You won't take that from me
+
+This is how the man spoke
+This is how I will stroke
+And I will dance
+
+I will dance
+I will dance</em></pre>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://atysen.github.io/alextysen.com/wp-content/uploads/2022/12/I-Will-Dance.mp3"></audio></figure>
+
+
+
+<div class="is-content-justification-center is-layout-flex wp-container-1 wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" href="https://atysen.github.io/alextysen.com/wp-content/uploads/2022/12/I-Will-Dance.mp3">Download</a></div>
+</div>
+
+
+
+<p class="has-text-align-center"><em>Music and lyrics by Alex Tysen</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://atysen.github.io/alextysen.com/2022/12/25/i-will-dance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://atysen.github.io/alextysen.com/wp-content/uploads/2022/12/I-Will-Dance.mp3" length="5594216" type="audio/mpeg" />
+
+			</item>
+		<item>
 		<title>The Auditorium</title>
 		<link>https://atysen.github.io/alextysen.com/2022/12/23/the-auditorium/</link>
 					<comments>https://atysen.github.io/alextysen.com/2022/12/23/the-auditorium/#respond</comments>
@@ -103,14 +169,19 @@ Evermore</em></pre>
 
 
 
-<div class="wp-block-file aligncenter"><a id="wp-block-file--media-a35016b5-43fa-4485-a3cb-2f4c97fa5b61" href="https://atysen.github.io/alextysen.com/wp-content/uploads/2022/12/The-Auditorium-1.mp3">The Auditorium</a><a href="https://atysen.github.io/alextysen.com/wp-content/uploads/2022/12/The-Auditorium-1.mp3" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-a35016b5-43fa-4485-a3cb-2f4c97fa5b61">Download</a></div>
+<div class="is-content-justification-center is-layout-flex wp-container-2 wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" href="https://atysen.github.io/alextysen.com/wp-content/uploads/2022/12/The-Auditorium.mp3">Download</a></div>
+</div>
+
+
+
+<p class="has-text-align-center"><em>Music and lyrics by Alex Tysen</em></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://atysen.github.io/alextysen.com/2022/12/23/the-auditorium/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		<enclosure url="https://atysen.github.io/alextysen.com/wp-content/uploads/2022/12/The-Auditorium.mp3" length="7055587" type="audio/mpeg" />
-<enclosure url="https://atysen.github.io/alextysen.com/wp-content/uploads/2022/12/The-Auditorium-1.mp3" length="7055587" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -224,8 +295,8 @@ Evermore</em></pre>
 
 
 
-<div class="is-vertical is-content-justification-center is-layout-flex wp-container-2 wp-block-group">
-<div class="is-vertical is-content-justification-center is-layout-flex wp-container-1 wp-block-group">
+<div class="is-vertical is-content-justification-center is-layout-flex wp-container-4 wp-block-group">
+<div class="is-vertical is-content-justification-center is-layout-flex wp-container-3 wp-block-group">
 <p class="has-text-align-center"><em>You said</em></p>
 
 
